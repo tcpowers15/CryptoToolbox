@@ -1,3 +1,7 @@
+"""
+This script takes in an encrypted Caeser Cipher and brute forces it
+"""
+
 import sys
 
 def ceaser(text, s):
